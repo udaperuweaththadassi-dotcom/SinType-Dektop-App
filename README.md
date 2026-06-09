@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.png" alt="SinType Logo" width="80"/>
+<img src="logo.png" alt="SinType Logo" width="80"/>
 
 # SinType Desktop
 
@@ -13,7 +13,9 @@
 
 [Download](https://sintype.lk/download) · [Website](https://sintype.lk) · [FAQ](https://sintype.lk/faq) · [Report Bug](https://sintype.lk/feedback)
 
-![SinType Demo](assets/demo.gif)
+![SinType Demo](assets/<img width="512" height="512" alt="logo" src="https://github.com/user-attachments/assets/748610f6-4c2c-40a2-9930-169800697155" />
+<img width="512" height="512" alt="sintype_icon - Copy" src="https://github.com/user-attachments/assets/6f889de0-d5a1-4665-a5e2-4f66bf170b29" />
+demo.gif)
 
 </div>
 
@@ -70,8 +72,9 @@ All keystrokes and conversion happen **locally on your PC**. Nothing is sent to 
 
 |Channel |Version    |Link                                               |
 |--------|-----------|---------------------------------------------------|
-|✅ Stable|v2.0.0     |[Download for Windows](https://sintype.lk/download)|
-|🧪 Beta  |v2.0.0-beta|[Download Beta](https://sintype.lk/download)       |
+|✅ Stable|v1.0.0     |[Download for Windows]([https://sintype.lk/download](https://github.com/udaperuweaththadassi-dotcom/SinType-Dektop-App/releases/download/Desktop_App/SinType.1.0_Setup.exe))|
+|✅ Stable|v1.1.0     |[Download for Windows]([https://sintype.lk/download](https://github.com/udaperuweaththadassi-dotcom/SinType-Dektop-App/releases/download/Desktop_App.2/SinType.1.1_Setup.exe))       |
+|✅ Stable|v2.0.0     |[Download for Windows]([https://sintype.lk/download](https://github.com/udaperuweaththadassi-dotcom/SinType-Dektop-App/releases/download/Desktop_App.3/SinType.2.0_Setup.exe))|
 
 
 > **System Requirements:** Windows 10 / 11 (64-bit) · 4GB RAM · 50MB disk space
