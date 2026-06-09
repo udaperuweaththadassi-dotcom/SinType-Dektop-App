@@ -1,7 +1,3 @@
-<div align="center">
-
-<img src="logo.png" alt="SinType Logo" width="80"/>
-
 # SinType Desktop
 
 ### Type Sinhala anywhere on Windows — instantly.
@@ -13,9 +9,6 @@
 
 [Download](https://sintype.lk/download) · [Website](https://sintype.lk) · [FAQ](https://sintype.lk/faq) · [Report Bug](https://sintype.lk/feedback)
 
-![SinType Demo](assets/<img width="512" height="512" alt="logo" src="https://github.com/user-attachments/assets/748610f6-4c2c-40a2-9930-169800697155" />
-<img width="512" height="512" alt="sintype_icon - Copy" src="https://github.com/user-attachments/assets/6f889de0-d5a1-4665-a5e2-4f66bf170b29" />
-demo.gif)
 
 </div>
 
@@ -230,7 +223,7 @@ Bug reports, feature suggestions, and feedback are welcome.
 
 - 🐛 **Bug Report:** [sintype.lk/feedback](https://sintype.lk/feedback)
 - 💬 **Discussion:** [sintype.lk/faq](https://sintype.lk/faq)
-- 📧 **Contact:** [support@sintype.lk](mailto:support@sintype.lk)
+- 📧 **Contact:** [support@sintype.lk](mailto:udaperuweaththadassi@gmail.com)
 
 -----
 
