@@ -1,262 +1,195 @@
+<div align="center">
+
+<img src="https://sintype.lk/assets/logo.png" alt="SinType Logo" width="120" height="120" />
+
 # SinType Desktop
 
-### Type Sinhala anywhere on Windows — instantly.
+### The world’s easiest Singlish → Sinhala typing tool for Windows
 
-[![Version](https://img.shields.io/badge/version-2.0.0--beta-cyan?style=flat-square)](https://sintype.lk/download)
-[![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-blue?style=flat-square)](https://sintype.lk/download)
-[![License](https://img.shields.io/badge/license-Free-green?style=flat-square)](https://sintype.lk/download)
-[![Python](https://img.shields.io/badge/python-3.10%2B-yellow?style=flat-square)](https://python.org)
+### ග්‍රැෆික් ඩිසයිනර්ස්, ප්‍රකාශකයින් සහ Content Creators සඳහා
 
-[Download](https://sintype.lk/download) · [Website](https://sintype.lk) · [FAQ](https://sintype.lk/faq) · [Report Bug](https://sintype.lk/feedback)
+[![Version](https://img.shields.io/badge/version-Beta%20v2.0-blue?style=for-the-badge)](https://sintype.lk/download)
+[![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-0078D4?style=for-the-badge&logo=windows)](https://sintype.lk/download)
+[![License](https://img.shields.io/badge/license-Free-22c55e?style=for-the-badge)](https://sintype.lk/license)
+[![Built with](https://img.shields.io/badge/built%20with-Python-3776AB?style=for-the-badge&logo=python)](https://python.org)
 
+**[⬇️ Download](https://sintype.lk/download) · [🌐 Website](https://sintype.lk) · [📖 FAQ](https://sintype.lk/faq) · [💬 WhatsApp Support](https://wa.me/94769912116)**
 
 </div>
 
 -----
 
-## What is SinType?
+## 🎯 SinType යනු කුමක්ද?
 
-SinType is a free, open-architecture Windows desktop application that converts **Singlish** (phonetic Sinhala typed in English letters) into beautiful **Sinhala Unicode** in real time — system-wide, across every app on your PC.
+**SinType Desktop** යනු Windows PC හි **ඕනෑම Application** එකට — Adobe Photoshop, Illustrator, InDesign, MS Word, WhatsApp Desktop — සෘජුවම **Singlish** ටයිප් කිරීමෙන් **සිංහල Unicode හෝ Legacy FM Font** characters ලබා දෙන නොමිලේ Desktop Tool එකයි.
 
-No copy-paste. No browser tab. Just type.
+> 💡 **Student developer from Sri Lanka** — Photoshop හි සිංහල ටයිප් කිරීමේ pain එක personally දැනුණු නිසා, Python ඔස්සේ සති කිහිපයකින් build කළ tool එකක්.
+
+-----
+
+## ✨ Features
+
+|Feature                   |විස්තරය                                                        |
+|--------------------------|-------------------------------------------------------------|
+|⌨️ **Singlish → සිංහල**      |Real-time transliteration — type Singlish, get Sinhala       |
+|🔵 **Unicode Mode** `F9`   |Modern fonts — Web, Word, Social Media                       |
+|🟡 **Legacy FM Mode** `F11`|FM Abhaya, Gemunu, Malithi — Photoshop, Illustrator, InDesign|
+|⚪ **English Mode** `F10`  |Transliteration pause — normal English typing                |
+|📱 **Mobile Sync**         |Phone as wireless keyboard + touchpad + file transfer        |
+|🔌 **100% Offline**        |Works without internet after activation                      |
+|🆓 **Free**                |30-day renewable key — no payment required                   |
+
+-----
+
+## ⌨️ Global Hotkeys
 
 ```
-api     →  අපි
-mama    →  මම  
-koheda  →  කොහේද
+F9  →  Unicode Mode   (සිංහල Unicode — Web, Word, Social Media)
+F10 →  English Mode   (Transliteration OFF)
+F11 →  Legacy Mode    (FM Font Characters — Adobe Software)
+```
+
+### Example
+
+```
+Input  : mama gedara yanavaa
+F9     : මම ගෙදර යනවා  (Unicode)
+F11    : (FM Abhaya encoded output for Photoshop)
 ```
 
 -----
 
-## Key Features
-
-### 🌐 Type Sinhala Anywhere
-
-Works system-wide using low-level Windows keyboard hooks. Type Sinhala in **Photoshop, Word, WhatsApp, Discord, Chrome, VS Code** — any app, no exceptions.
-
-### ⚡ Two Typing Modes
-
-- **Real-time mode** — converts as you type, word by word
-- **Word mode** — manual trigger via hotkey for precision control
-
-### 📱 Mobile Sync (v2.0)
-
-Scan a QR code and use your phone as a **wireless keyboard and touchpad** for your PC — over your local Wi-Fi. No cloud. No app install on phone.
-
-### 📁 Offline File Sharing (v2.0)
-
-Drag and drop files from your phone to your PC over your local network. No internet, no USB, no cloud storage required.
-
-### 🔤 Unicode & Legacy Support
-
-Switch between **Unicode Sinhala**, **Legacy FM Abhaya fonts**, and **English** — directly from your phone remote or the floating toolbar.
-
-### ✏️ Custom Key Mapping
-
-Edit your own Singlish-to-Sinhala mapping rules. Your personal dictionary is always preserved across updates.
-
-### 🔒 Everything Stays Private
-
-All keystrokes and conversion happen **locally on your PC**. Nothing is sent to the internet. Your typing is yours.
-
------
-
-## Download
-
-|Channel |Version    |Link                                               |
-|--------|-----------|---------------------------------------------------|
-|✅ Stable|v1.0.0     |[Download for Windows]([https://sintype.lk/download](https://github.com/udaperuweaththadassi-dotcom/SinType-Dektop-App/releases/download/Desktop_App/SinType.1.0_Setup.exe))|
-|✅ Stable|v1.1.0     |[Download for Windows]([https://sintype.lk/download](https://github.com/udaperuweaththadassi-dotcom/SinType-Dektop-App/releases/download/Desktop_App.2/SinType.1.1_Setup.exe))       |
-|✅ Stable|v2.0.0     |[Download for Windows]([https://sintype.lk/download](https://github.com/udaperuweaththadassi-dotcom/SinType-Dektop-App/releases/download/Desktop_App.3/SinType.2.0_Setup.exe))|
-
-
-> **System Requirements:** Windows 10 / 11 (64-bit) · 4GB RAM · 50MB disk space
-
------
-
-## Getting Started
-
-### Installation
+## 🎨 ඩිසයිනර්ලා සඳහා විශේෂයෙන්
 
 ```
-1. Download the installer from sintype.lk/download
-2. Run SinType_Setup.exe
-3. Generate your free 30-day key at sintype.lk/download
-4. Open SinType → License tab → Enter email + key
-5. Start typing Sinhala anywhere!
-```
-
-### Quick Usage
-
-```
-1. SinType starts in the system tray
-2. The floating toolbar shows your current mode
-3. Type Singlish in any app
-4. Text converts to Sinhala automatically
-```
-
-### Mobile Sync Setup
-
-```
-1. Open SinType → Mobile Sync tab
-2. Scan the QR code with your phone camera
-3. Both devices must be on the same Wi-Fi
-4. Type from your phone — text appears on PC
-```
-
------
-
-## Architecture
-
-```
-SinType Desktop App
-│
-├── main_app.py                  # App bootstrap, license, engine
-├── src/
-│   ├── sintype_ui.py            # Primary desktop UI (customtkinter)
-│   ├── realtime_converter.py    # Real-time transliteration engine
-│   ├── singlish_mapper.py       # Mapping trie & word-mode engine
-│   ├── text_inject.py           # Windows text injection
-│   ├── typing_pipeline.py       # Keyboard event queues
-│   ├── floating_toolbar.py      # Floating toolbar UI
-│   ├── hotkey_manager.py        # Global hotkeys
-│   ├── startup_manager.py       # Windows autostart (registry)
-│   ├── sintype_config.py        # User config & preferences
-│   ├── supabase_config.py       # Cloud backend config
-│   ├── supabase_services.py     # Feedback, reviews, notifications
-│   ├── license_binding.py       # Device-bound license encryption
-│   ├── paths.py                 # Bundle & user path resolution
-│   ├── install_utils.py         # Installer/updater utilities
-│   └── uninstall_helper.py      # Windows uninstall integration
-│
-└── mobile_server/
-    ├── server.py                # Flask + Socket.IO local server
-    ├── file_share.py            # Chunked file transfer manager
-    └── qr_generator.py          # QR code for mobile connect
-```
-
-### How Real-time Conversion Works
-
-```
-User types "amma"
+Adobe Photoshop / Illustrator / InDesign
         │
         ▼
-pynput keyboard listener captures keystrokes
+  F11 (Legacy FM Mode)
         │
         ▼
-ConverterEngine processes composing buffer
+  FM Abhaya / FM Gemunu / FM Malithi
         │
         ▼
-SinglishMapper trie lookup → "අම්මා"
-        │
-        ▼
-text_inject.py backspaces + injects Unicode
-        │
-        ▼
-"අම්මා" appears in active window
+  ✅ Perfect Sinhala Rendering
 ```
 
-### How Mobile Sync Works
+**Adobe හි “පිල්ලම් කැඩීම” Fix:**
+
+1. `Type` → `Language Options` → **Middle Eastern & South Asian Features** ✅
+1. FM Font select කරන්න
+1. `F11` press කර Singlish type කරන්න
+
+-----
+
+## 📥 Download & Install
+
+1. **[sintype.lk/download](https://sintype.lk/download)** වෙත පිවිසෙන්න
+1. `SinType-Setup.exe` download කරන්න
+1. Install කරන්න
+
+> ⚠️ **Windows SmartScreen Warning** — Beta app නිසා unsigned. “More info” → “Run anyway” click කරන්න. [VirusTotal Report](https://sintype.lk/download) sintype.lk/download හි ලැබෙයි.
+
+-----
+
+## 🔑 Activation (Free)
 
 ```
-Phone (browser)  ──QR scan──►  PC (SinType)
-                               │
-                          Flask server
-                          Socket.IO
-                               │
-                    Keystrokes stream to PC
-                               │
-                    remote_injector.py
-                               │
-                    Text injected to active window
+1. sintype.lk → Gmail login
+2. License page → "Generate Key" click
+3. SinType app → Key paste → Activate ✅
+```
+
+> Activation after → **100% Offline** ✅
+
+-----
+
+## 📱 Mobile Sync
+
+```
+PC + Phone → Same WiFi
+     │
+     ▼
+SinType → Mobile Connector tab → QR Code
+     │
+     ▼
+Phone Browser → Scan QR
+     │
+     ▼
+✅ Phone = Wireless Keyboard + Touchpad + File Transfer
 ```
 
 -----
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-|Layer         |Technology                 |
-|--------------|---------------------------|
-|UI Framework  |`customtkinter` + `pystray`|
-|Input Capture |`pynput`                   |
-|Text Injection|`Win32 API` (pywin32)      |
-|Mobile Server |`Flask` + `Flask-SocketIO` |
-|License Crypto|`cryptography` (Fernet)    |
-|Cloud Backend |`Supabase`                 |
-|QR Generation |`qrcode`                   |
-|Packaging     |`PyInstaller`              |
-|Notifications |`plyer`                    |
+```
+Language  : Python
+UI        : CustomTkinter
+Packaging : PyInstaller + NSIS Installer
+Backend   : FastAPI (Mobile Sync server)
+Auth      : Supabase
+Platform  : Windows 10 / 11
+```
 
 -----
 
-## License
+## ❓ FAQ
 
-SinType is **free to use**. A 30-day renewable license key is required to ensure you always receive the latest updates.
+<details>
+<summary><b>Adobe Photoshop හි characters "කැඩෙනවා" — fix කරන්නේ කොහොමද?</b></summary>
 
-**→ [Generate your free key](https://sintype.lk/download)**
+`Type` → `Language Options` → **“Middle Eastern & South Asian Features”** enable කරන්න. FM Font select කර `F11` mode හි type කරන්න.
 
-The license key system exists to:
+</details>
 
-- Notify you about important updates and new versions
-- Ensure you are running a stable, supported build
+<details>
+<summary><b>Windows Virus Warning දක්වනවා — safe ද?</b></summary>
 
-There is no paid tier. SinType will always be free.
+✅ 100% Safe. Beta app නිසා Code Signing Certificate නැහැ — SmartScreen false positive. [VirusTotal report](https://sintype.lk/download) verify කළ හැකිය.
 
------
+</details>
 
-## Privacy
+<details>
+<summary><b>Offline ක්‍රියා කරනවාද?</b></summary>
 
-SinType is built with privacy as a core principle:
+✅ Activation ලදු පසු **සම්පූර්ණ ලෙස Offline** ක්‍රියා කරයි.
 
-- ✅ All keystroke processing happens **locally on your PC**
-- ✅ Typing data is **never sent to the internet**
-- ✅ Mobile sync works over **local Wi-Fi only** — no cloud relay
-- ✅ File sharing is **peer-to-peer** on your local network
-- ✅ License validation is the **only** external network call
+</details>
 
------
+<details>
+<summary><b>30 දින ඉවර වූ පසු?</b></summary>
 
-## Contributing
+sintype.lk/license → නැවත “Generate Key” → Free renewal ✅
 
-SinType is developed and maintained by a solo developer.  
-Bug reports, feature suggestions, and feedback are welcome.
-
-- 🐛 **Bug Report:** [sintype.lk/feedback](https://sintype.lk/feedback)
-- 💬 **Discussion:** [sintype.lk/faq](https://sintype.lk/faq)
-- 📧 **Contact:** [support@sintype.lk](mailto:udaperuweaththadassi@gmail.com)
+</details>
 
 -----
 
-## Release Notes
+## 📞 Support & Feedback
 
-### v2.0.0 (Latest)
-
-- ✅ Built-in Local Web Server for mobile remote control
-- ✅ Wireless touchpad & keyboard from phone via QR
-- ✅ Mobile-to-PC file sync over local network
-- ✅ Switch between Unicode, Legacy FM Abhaya, and English from phone
-- ✅ Improved real-time conversion engine
-- ✅ Redesigned floating toolbar
-
-### v1.x
-
-- Initial release with real-time Singlish to Unicode conversion
-- Word mode with manual hotkey trigger
-- Custom mapping support
-- System tray integration
+|                 |                                                |
+|-----------------|------------------------------------------------|
+|🌐 Website        |[sintype.lk](https://sintype.lk)                |
+|📩 Contact        |[sintype.lk/contact](https://sintype.lk/contact)|
+|💬 WhatsApp       |[+94 76 991 2116](https://wa.me/94769912116)    |
+|🐛 Bug Report     |App → About Tab → Bug Report                    |
+|💡 Feature Request|App → About Tab → Feature Request               |
 
 -----
 
-## About
+## 🙏 ස්තූතිය
 
-SinType was built by an 18-year-old Sri Lankan A/L student with a simple goal — to make typing Sinhala on Windows effortless for **designers, content creators, and everyday users** who deserve great local software.
-
-> *“Sri Lankan users deserve tools built for them.”*
+SinType Beta test කිරීම **Sri Lanka Desktop Software Ecosystem** develop කිරීමේ ඉතා වැදගත් කොටසකි. ඔබේ feedback, future versions සඳහා direct contribution වේ.
 
 -----
 
 <div align="center">
 
-**[sintype.lk](https://sintype.lk)** · Built with ❤️ in Sri Lanka
+**© 2026 [SinType.lk](https://sintype.lk) — Made with ❤️ in Sri Lanka 🇱🇰**
+
+*Sri Lanka හි ග්‍රැෆික් ඩිසයිනර්ස්, ප්‍රකාශකයින්, සහ Content Creators සඳහා*
+
+[![Download SinType](https://img.shields.io/badge/⬇️%20Download%20SinType-Free-22c55e?style=for-the-badge)](https://sintype.lk/download)
 
 </div>
