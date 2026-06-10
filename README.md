@@ -146,7 +146,7 @@ Platform  : Windows 10 / 11
 <details>
 <summary><b>Windows Virus Warning දක්වනවා — safe ද?</b></summary>
 
-✅ 100% Safe. Beta app නිසා Code Signing Certificate නැහැ — SmartScreen false positive. [VirusTotal report](https://sintype.lk/download) verify කළ හැකිය.
+✅ 100% Safe. Beta app නිසා Code Signing Certificate නැහැ — SmartScreen false positive. [VirusTotal report](https://www.virustotal.com/gui/url/2e039dc6426d8610b80cbfd79af2f4df75889e825700b9d89ddabb72246a0bdd?nocache=1) verify කළ හැකිය.
 
 </details>
 
