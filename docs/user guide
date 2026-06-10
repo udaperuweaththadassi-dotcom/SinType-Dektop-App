@@ -1,0 +1,182 @@
+BETA TEST · OFFICIAL USER GUIDE
+SinType Desktop
+The world's easiest Singlish → Sinhala Unicode & Legacy FM Font translation tool for graphic designers, publishers, and content creators.
+Beta v2.0 Windows 10 / 11 sintype.lk
+
+This document is for SinType Desktop Beta v2.0 · Updated 2026
+අන්තර්ගත සටහන
+	1	SinType හඳුනාගනිමු
+	2	බාගැනීම හා ස්ථාපනය
+	3	Security Warning — SmartScreen
+	4	Software Activation
+	5	ප්‍රධාන Hotkeys — Mode Switching
+	6	Mobile Sync — දුරකථන පිවිසුම
+	7	නිතර අසන ප්‍රශ්න (FAQ)
+	8	Feedback & Bug Report
+01SinType හඳුනාගනිමු
+SinType යනු Sri Lanka වෙහි Graphic Designers, Publishers, සහ Content Creators සඳහා නිර්මාණය කරන ලද, Windows desktop මත ක්‍රියා කරන නොමිලේ ලබාගත හැකි Singlish-to-Sinhala transliteration මෘදුකාංගයකි. sintype.lk ව්‍යාපෘතිය ඔස්සේ ලබා දෙන SinType Desktop, ඔබ දිනපතා භාවිත කරන ඕනෑම Windows Application එකකට — Adobe Photoshop, Illustrator, InDesign, MS Word, WhatsApp Desktop, Notepad, ඕනෑම software එකකට — සෘජුවම සිංහල ටයිප් කිරීමේ හැකියාව ලබා දෙයි.
+SinType ඔබට කළ හැකි දේ
+	•	Singlish වලින් සිංහල Unicode/Legacy FM Font Type කිරීම. — Keyboard Shortcuts (Hotkeys) ඔස්සේ ස්වයංක්‍රීයව සිංහල Unicode හෝ Legacy FM Font Characters output ලෙස ලැබෙයි.
+	•	Unicode Mode — Noto Sans Sinhala, Abhaya Libre වැනි Modern Fonts සඳහා. Web, Social Media, MS Word, Google Docs.
+	•	Legacy FM Font Mode — FM Abhaya, FM Gemunu, FM Malithi ආදී FM Series Fonts සඳහා. Adobe Photoshop / Illustrator, InDesign, Newspaper & Banner Design.
+	•	English Mode — Transliteration සම්පූර්ණයෙන් නවත්වා සාමාන්‍ය English ටයිප් කිරීමට.
+	•	Mobile Sync — ඔබේ Smartphone, Wireless Keyboard / Touchpad /File Transfer ලෙස PC එකට සම්බන්ධ කිරීම.
+	•	100% Offline — Activation ලදු පසු Internet නොමැතිව සම්පූර්ණ කාර්යක්ෂමතාවෙන් ක්‍රියා කරයි.
+🎯
+ඩිසයිනර්ලාගේ ඉලක්කය — Adobe Photoshop / Illustrator හි Legacy FM Fonts, සහ Microsoft Word / Web හි Unicode Sinhala, එකම Software එකෙන් Hotkey ක්‍රමයෙන් Switch කරමින් ටයිප් කිරීම — SinType Desktop ඒ සඳහා හොඳම solution එකයි.
+02බාගැනීම හා ස්ථාපනය
+SinType Desktop Installer, sintype.lk හි නිල Download පිටුවෙන් ලබාගත හැකිය. Installation ක්‍රියාවලිය ඉතා සරළ වේ.
+Download සහ Install කිරීමේ පියවර
+	1	ඔබේ Browser ඔස්සේ sintype.lk/download වෙත පිවිසෙන්න.
+	2	"Download v2.0" Button Click කරන්න. Installer File (SinType-Setup.exe) ඔබේ Downloads Folder එකට Save වේ.
+	3	Downloads Folder එකෙහි SinType-Setup.exe File එක Double-Click කරන්න.
+	4	Windows SmartScreen Warning දිස් වේ — Don't Run Click නොකරන්න. "More Info" Click කරන්න. ඊළඟ Section කියවා SmartScreen bypass කරන ආකාරය ඉගෙනගන්න.
+	5	Installation Wizard Follow කරන්න — "Next" → "Install" → "Finish". Software, Desktop Shortcut එකක් ස්වයංක්‍රීයව Create කරයි.
+	6	Desktop Shortcut Double-Click කර SinType ආරම්භ කරන්න. System Tray හි SinType App එක දිස් වෙන අතර screen එකේ ඉහළින් Toolbar එක දිස්වෙනු ඇත.
+💡
+ඉඟිය
+SinType Install ලදු පසු, Windows Startup (Boot) සමඟ ස්වයංක්‍රීයව ආරම්භ වන ලෙස Settings Panel එකෙහි "Start with Windows" Option Enable කිරීම නිර්දේශ කෙරේ. එසේ කළ විට සෑම දිනකම Open කිරීමේ අවශ්‍යතාවයක් නොමැත.
+03Security Warning — Windows SmartScreen
+SinType Desktop, Beta Release අදියරේ පවතින නිසා, Code Signing Certificate (Authenticode) සමඟ Digitally Sign කර නොමැති Software Package එකකි. ඒ නිසා ඔබ Installer Run කිරීමට උත්සාහ කළ විට Windows SmartScreen, රතු (Red) Warning Screen එකක් ප්‍රදර්ශනය කරයි. මෙය Virus හෝ Malware නොවේ.
+SmartScreen Warning — ඇත්ත හේතුව
+Microsoft Windows, නිල Code Signing Certificate ලබාගෙන Sign කරන ලද Applications පමණක් "Verified Publisher" ලෙස සලකයි. Certificate ලබාගැනීමේ ක්‍රමවේදය සහ ස්ථාපනය සඳහා ශ්‍රී ලංකාවේ Independent Developers ලාට සල්ලි සහ කාලය ගතවන නිසා, Beta Releases බොහෝ විට Unsigned ස්වරූපයෙන් නිකුත් කෙරේ. මෙය Industry හි සාමාන්‍ය Practice එකකි.
+⚠️
+SMARTSCREEN WARNING ගැන භය නොවන්න
+Red Screen දිස්වීම, Software එක අතහැර දැමීමට තරම් කාරණයක් නොවේ. ඔබ නිල sintype.lk/download URL එකෙන් Download කළ File එක Virus Free බව 100% Guarantee. පහතින් VirusTotal Scan Report ද ලබා දෙයි.
+SmartScreen Bypass — පියවරෙන් පියවර
+🛡️
+Windows protected your PC
+Microsoft Defender SmartScreen prevented an unrecognized app from starting. Running this app might put your PC at risk.
+More info
+👆 "More info" Click කරන්න — "Don't run" Click නොකරන්න.
+	1	Red SmartScreen Screen එකේ "More info" (හෝ "More information") Link Click කරන්න.
+	2	Screen Expand වී Publisher Name (SinType / Unknown Publisher) සහ "Run anyway" Button දිස් වේ.
+	3	"Run anyway" Button Click කරන්න. Installation ආරම්භ වේ.
+🚫
+ප්‍රවේශම් වන්න!
+SinType Download, sintype.lk හැර වෙනත් ඕනෑම Website, Torrent, File Sharing Platform, හෝ Telegram Group ඔස්සේ ලැබෙන Installer Files Unsafe විය හැකිය. සෑම විටම sintype.lk/download ලිපිනයෙන් පමණක් Download කරන්න.
+VirusTotal Scan Report
+SinType Installer, Virus නොමැති බව ස්වාධීනව සත්‍යාපනය කළ හැකි VirusTotal Scan Report නිල Website හි Download Page හි ලබා දෙයි.
+🔬
+VirusTotal Scan — SinType-Setup.exe
+www.virustool.com sintype.2.0_setup.exe හි නවතම Scan Report Link ලබා ගන්න · 92+ Antivirus Engines Scanned
+✓ Clean
+04Software Activation
+SinType Desktop, Activation Key ක්‍රමය (Licence Key System) ඔස්සේ ක්‍රියා කරයි. මෙය සම්පූර්ණයෙන්ම නොමිලේ ලභාදෙන Activation Key එකක් වන අතර , නිල Website ඔස්සේ ලබාගත හැක. Subscription / Lifetime Licence හෝ වෙනත් කිසිම මුදල් අයකර License Key Sale කිරීමක් සිදුකරනුයේ නැත.
+දින 30ක් වලංගු Activation ලබාගැනීම
+	1	sintype.lk වෙත පිවිසෙන්න. Login Page හි ඔබගේ "Gmail"ලිපිනයෙන් log වෙන්න.
+	2	License Page හි "Generate key" Button Click කරන්න.
+	3	SinType Desktop App Open කරන්න. License Panel එකෙහි ඔබගේ "Gmail"එක සහ ලැබුණු Activation Key Paste කර "Activate" ButtonClick කරන්න.
+	4	Activation සාර්ථකවූ විට "Activated" Status දිස් වේ. ✅ දැන් Software 30 දිනක් Full Access ලෙස ක්‍රියා කරයි.
+✅
+SIGN IN OPTION
+sintype.lk Account Create කර Sign In කළ විට, ඔබේ Licence Key ස්වයංක්‍රීයව Sync වේ. Activation Key ලභාගැනීම සඳහා sintype.lk/license වෙත පිවිසෙන්න.
+🔒
+OFFLINE ACTIVATION
+Activation සිදු කිරීමට Internet Connection අවශ්‍ය වේ. Activation ලදු පසු, Internet නොමැතිව 100% Offline ක්‍රියා කිරීම සඳහා Software සම්පූර්ණ ලෙස සහය දක්වයි.
+05ප්‍රධාන Hotkeys — Mode Switching
+SinType Desktop හි හදවත වන්නේ Global Hotkey System එකයි. ඔබ Windows හි ඕනෑම Application එකෙහි ටයිප් කරද්දී, Keyboard හි Function Keys (F9 / F10 / F11) ඔස්සේ Typing Mode Switch කළ හැකිය. Shortcut Keys වෙනත් කිසිම Application හා Conflict නොවන ලෙස Design කර ඇත.ඔබ මෙය භාවිතා කිරීමේදී Hot Keys සම්බන්ධ යම් ගැටළුවක් ඇතිවුවහොත් About Pannel හී Report Bugs යටතේ අපව දැනුවත් කරන්න.
+MODE
+HOTKEY
+විස්තරය
+භාවිතය
+Unicode Mode
+F9
+Singlish → සිංහල Unicode (Modern)
+Noto Sans Sinhala, Abhaya Libre ආදී Unicode Fonts සඳහා. Characters, ශුද්ධ Unicode Codepoints ලෙස Output වේ.
+Web Social Media MS Word Google Docs WhatsApp
+English Mode
+F10
+Transliteration OFF — English Direct
+Singlish Conversion නවතී. English Text Typing සඳහා. Mode Indicator Gray ලෙස දිස් වේ.
+English Typing Passwords Code Numbers
+Legacy Mode
+F11
+Singlish → Legacy FM Font Characters
+FM Abhaya, FM Gemunu, FM Malithi ආදී Legacy Fonts සඳහා. Characters, ASCII-mapped Legacy Encoding ලෙස Output වේ. Adobe Photoshop / Illustrator / InDesign Layout Work සඳහා ඉතා ම ප්‍රධාන Mode එකයි.
+Photoshop Illustrator InDesign Banners Newspapers
+F9
+Unicode Mode — ක්‍රියා කරන ආකාරය
+F9 Press කළ විට, SinType Background හි Unicode Mode Activate වේ. දැන් ඔබ mama gedara yanavaa ටයිප් කළ විට, ක්ෂණිකව මම ගෙදර යනවා ලෙස Screen හි ලිවෙයි. Space Bar Press කළ විට Word Convert වේ.
+F11
+Legacy FM Mode — Adobe Software සඳහා
+Adobe Photoshop හෝ Illustrator හි Text Tool (Type Tool) Activate කර, F11 Press කරන්න. FM Abhaya Font Set කර ඇති Text Layer එකක Singlish ටයිප් කළ විට, Legacy FM Characters ලෙස Output ලැබේ. Document Print / Export කළ විට Font Rendering නිවැරදිව සිදු වේ.
+F10
+English Mode — Transliteration Pause
+Sinhala ටයිප් නොකළ යුතු අවස්ථාවල (Password, Code, Numbers, English Text), F10 Press කරන්න. SinType Passive Mode එකට යයි — ඔබේ Keyboard, Normal English Keyboard ලෙස ක්‍රියා කරයි. නැවත F9 හෝ F11 Press කළ විට Sinhala Mode Restore වේ.
+⌨️
+HOTKEY TIP
+SinType Panel (Screen Right Edge) හි Mode Indicator (Light), Active Mode Show කරයි — නිල් (Blue) = Unicode  |  කහ(Yellow) = Legacy FM  |  අළු (Gray) = English. Panel Minimize (Collapse) කළ විට Pill ලෙස Screen Edge හි රැඳෙයි.
+06Mobile Sync — දුරකථනය Wireless Keyboard ලෙස
+SinType Desktop v2.0 හි ඇති Mobile Connector Feature ඔස්සේ, ඔබේ Android හෝ iPhone Smartphone, ඔබේ Windows PC සමඟ Wireless ලෙස Pair කළ හැකිය. Pair ලදු පසු, Mobile Phone Screen ඔස්සේ:
+	•	PC Desktop Touchpad / Mouse ලෙස Control කිරීම
+	•	PC Keyboard ලෙස Text Type කිරීම (Sinhala / English)
+	•	ගොනු (Files) WiFi ඔස්සේ Share කිරීම
+Mobile Pair කිරීමේ පියවර
+	1	PC සහ Mobile Phone, එකම WiFi Network (Router) හෝ Mobile Hotspot (PC ↔ Phone Direct) හා සම්බන්ධ කරන්න.
+	2	SinType Desktop Panel හි "Mobile Connector" Tab Open කරන්න. QR Code සහ IP Address දිස් වේ.
+	3	Mobile Phone හි Browser (Chrome / Safari) ඔස්සේ QR Code Scan කරන්න (හෝ IP Address ටයිප් කරන්න).
+	4	Mobile Browser හි SinType Remote Interface Load වේ. දැන් ඔබේ Phone, PC Remote Control / Wireless Keyboard ලෙස ක්‍රියා කරයි.Add Home Screen (Add to Home) කර Mobile App වශයෙන් භාවිතා කළ හැකිය.
+📡
+WIFI / NETWORK ගැන
+Mobile Sync Feature, Local Network (WiFi) ඔස්සේ ක්‍රියා කරයි. Internet Connection අවශ්‍ය නොවේ — Phone Hotspot (Tethering) ද භාවිත කළ හැකිය. Public WiFi (Hotel, Cafe) හා Pair කිරීම නිර්දේශ නොකෙරේ.
+07නිතර අසන ප්‍රශ්න (FAQ)
+Q
+Adobe Photoshop / Illustrator හි සිංහල Characters "කැඩෙනවා" (පිල්ලම් කැඩීම) — කොහොමද හදන්නේ?
+මෙය Adobe Software හි Text Rendering Engine හේතු කොටගෙන සිදු වේ. Default ලෙස Adobe, "World-Ready" (Middle Eastern & South Asian) Paragraph Mode Disable කරයි. Legacy FM Font Mode හි Characters නිවැරදිව Render නොවී "කැඩෙන" ස්වරූපයෙන් දිස් වේ.
+Photoshop / Illustrator හි Fix :
+	1	Menu Bar → Type → Language Options (Illustrator: Paragraph Panel → Menu)
+	2	"Middle Eastern & South Asian Features" (හෝ "World-Ready Paragraph Composer") Option Enable කරන්න.
+	3	Text Layer Select කර, Paragraph Panel හි Right-to-Left හෝ Left-to-Right Alignment නිවැරදිව Set කරන්න.
+	4	FM Abhaya (හෝ ඔබ භාවිත කරන Legacy Font) Select කර F11 Mode හි Singlish ටයිප් කරන්න.
+InDesign සඳහා: Preferences → Advanced Type → "Use Optical Kerning / Middle Eastern Features" Enable. Story Editor → Text Direction Right-to-Left.
+Q
+Windows, "Virus Warning" / SmartScreen Warning දක්වනවා — Software Unsafe ද?
+නැහැ — 100% Safe. SmartScreen Warning දිස් වීමට හේතුව, SinType Beta Release, Microsoft Approved Code Signing Certificate ලෙස Digitally Sign නොකළ බැවිනි. Certificate ලබාගැනීම සඳහා ශ්‍රී ලාංකේය Independent Developers ලාට Administrative Process සහ Cost ගතවේ. නිල Website (sintype.lk/download) ඔස්සේ Download කළ Installer, VirusTotal සහ සියලු Antivirus Engines ලෙස Verified Clean File එකකි. Section 03 හි SmartScreen Bypass ක්‍රමය කියවන්න.
+Q
+SinType Desktop, Internet නොමැතිව (Offline) ක්‍රියා කරනවාද?
+✅ ඔව් — Activation ලදු පසු, SinType Desktop සම්පූර්ණ ලෙස Offline ක්‍රියා කරයි. Transliteration Engine, ඔබේ PC හිම Locally Run වේ. Internet නොමැති Studio Environment, Restricted Network Office, හෝ WiFi නොමැති Field Situations හිදී ද SinType ක්‍රියා කරයි.
+Q
+Unicode Mode හි ටයිප් කළ Characters, Copy-Paste කළ පසු "□□□" (Tofu / Boxes) ලෙස දිස් වේ — ඇයි?
+ඔබ Paste කරන Application, Sinhala Unicode Font Support නොකිරීම (Font Not Installed) හෙවත් Sinhala Unicode Rendering Support නොමැතිකම මෙයට හේතුවයි.
+	•	Windows 10/11 — Noto Sans Sinhala (Google Fonts) හෝ Abhaya Libre Install කරන්න.
+	•	MS Word — Font Selector හි "Noto Sans Sinhala" Select කරන්න.
+	•	Adobe Software සඳහා Unicode Rendering, F11 Legacy Mode (FM Fonts) භාවිත කිරීම Recommended.
+Q
+දින 30 අවසන් වීමෙන් පසු Software ක්‍රියා නොකරන්නේ ඇයි?
+30-Day Activation Key Expire වූ පසු, Transliteration Feature Lock වේ. Software භාවිත කිරීම දිගටම කිරීමට:
+	•	sintype.lk/license හි නැවතත් "Generate Key"Click කරන්න.
+	•	Activation Panel හි ලැබෙන නව Key Paste කර "Activate" Click කරන්න.
+Q
+Singlish Mapping (e.g., "th" → ථ, "sh" → ශ) ගැන Guide එකක් තිබෙනවාද?
+✅ ඔව් — sintype.lk Web Converter හි "Show Mapping" Button Click කළ විට, සම්පූර්ණ Singlish Mapping Table දිස් වේ. ප්‍රධාන Examples:
+	•	a → අ  |  aa → ආ  |  i → ඉ
+	•	k → ක  |  g → ග  |  n → න
+	•	th → ථ  |  sh → ශ  |  ch → ච
+	•	mama gedara yanavaa → මම ගෙදර යනවා
+	•	ඔබ Desktop App භාවිත කිරීමේදී එහි ඇති Defalt Mapping Table එක ඔබට Reference එකක් ලෙස භාවිතා කළ හැකිය. Mapping Table එකෙහි ඔබට අවශ්‍ය වෙනස්කම් සිදු කර Custom Mapping එකක් ලෙස Save කර භාවිතා කළ හැකිය.
+Q
+SinType, Windows 7 / 8 හා Compatible ද?
+SinType Desktop, Windows 10 සහ Windows 11 සඳහා Officially Supported. Windows 7 / 8 / 8.1 Support Guaranteed නොවේ. හැකි නම්, Windows 10/11 භාවිත කිරීම Strongly Recommended.
+🌐
+සම්පූර්ණ FAQ
+ඉහත ලැයිස්තුවේ නොමැති ප්‍රශ්න සඳහා, sintype.lk/faq Full FAQ Page හෝ WhatsApp Support (+94 76 991 2116) ඔස්සේ Developer ව Direct Contact කළ හැකිය.
+08Feedback & Bug Report
+SinType, ශ්‍රී ලාංකේය Designers ලාගේ Real-World Needs සඳහා Build කෙරෙන Product එකකි. ඔබේ Bug Reports, Feature Requests, සහ Suggestions, SinType වඩා හොඳ මට්ටමේ Product කිරීමට Developer ට Direct Impact කරයි. Please Do Not Hesitate☝️!
+App ඇතුළෙන් Feedback Submit කරන ආකාරය
+	1	SinType Panel App Open කරන්න. About Tab (🔤) Open කරන්න.
+	2	Panel Bottom හි "Bug Report" (🐛) Button Click කරන්න — ඔබ හමු වූ Bug, Steps To Reproduce, Screenshot සමඟ Submit කරන්න.
+	3	"Feature Request" (💡) Button Click කරන්න — ඔබට අවශ්‍ය New Feature / Improvement Describe කරන්න.
+	4	Feedback, ක්ෂණිකව Developer (sintype.lk) ලා වෙත Send වේ. ⚡ ඉතා ඉක්මන් Response ලෙස WhatsApp Support ද ලබා දෙයි.
+🙏
+ස්තූතිය
+ඔබ SinType Beta Test කිරීම, Sri Lanka Desktop Software Ecosystem Development කිරීමේ ඉතා වැදගත් කොටසකි. ඔබේ Feedback, Future Versions සඳහා Direct Contribution වේ.
+
+Direct Support සම්බන්ධ කරගන්නේ කෙසේද?
+	•	🌐 Website: sintype.lk
+	•	📩 Contact: sintype.lk/contact
+	•	💬 WhatsApp: +94 76 991 2116
+	•	📨 Feedback: sintype.lk/feedback
+SinType Desktop
+sintype.lk Download FAQ Licence Privacy
+© 2026 SinType.lk — Sri Lanka හි ග්‍රැෆික් ඩිසයිනර්ස්, ප්‍රකාශකයින්, සහ Content Creators සඳහා නිර්මාණිත.  ·  Beta v2.0  ·  Windows 10 / 11  ·  Typing stays on your device.
