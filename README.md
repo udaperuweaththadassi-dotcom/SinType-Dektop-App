@@ -88,7 +88,7 @@ Adobe Photoshop / Illustrator / InDesign
 1. `SinType-Setup.exe` download කරන්න
 1. Install කරන්න
 
-> ⚠️ **Windows SmartScreen Warning** — Beta app නිසා unsigned. “More info” → “Run anyway” click කරන්න. [VirusTotal Report](https://sintype.lk/download) sintype.lk/download හි ලැබෙයි.
+> ⚠️ **Windows SmartScreen Warning** — Beta app නිසා unsigned. “More info” → “Run anyway” click කරන්න. [VirusTotal Report](https://www.virustotal.com/gui/url/2e039dc6426d8610b80cbfd79af2f4df75889e825700b9d89ddabb72246a0bdd?nocache=1) sintype.lk/download හි ලැබෙයි.
 
 -----
 
