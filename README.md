@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://sintype.lk/assets/logo.png" alt="SinType Logo" width="120" height="120" />
+<img src="https://sintype.lk/icon.png" alt="SinType Logo" width="120" height="120" />
 
 # SinType Desktop
 
